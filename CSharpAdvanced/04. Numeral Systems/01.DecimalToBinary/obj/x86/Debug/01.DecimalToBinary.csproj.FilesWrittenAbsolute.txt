@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/01.DecimalToBinary/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/01.DecimalToBinary/bin/Debug/01.DecimalToBinary.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/01.DecimalToBinary/bin/Debug/01.DecimalToBinary.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/01.DecimalToBinary/obj/x86/Debug/01.DecimalToBinary.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/01.DecimalToBinary/obj/x86/Debug/01.DecimalToBinary.exe.mdb

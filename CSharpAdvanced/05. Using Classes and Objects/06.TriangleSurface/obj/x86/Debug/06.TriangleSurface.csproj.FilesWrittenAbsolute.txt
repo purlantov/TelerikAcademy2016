@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/06.TriangleSurface/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/06.TriangleSurface/bin/Debug/06.TriangleSurface.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/06.TriangleSurface/bin/Debug/06.TriangleSurface.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/06.TriangleSurface/obj/x86/Debug/06.TriangleSurface.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/06.TriangleSurface/obj/x86/Debug/06.TriangleSurface.exe.mdb

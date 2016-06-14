@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpFundamentals/01.Introduction to Programming/04.HelloWorld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpFundamentals/01.Introduction to Programming/04.HelloWorld/bin/Debug/04.HelloWorld.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpFundamentals/01.Introduction to Programming/04.HelloWorld/bin/Debug/04.HelloWorld.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpFundamentals/01.Introduction to Programming/04.HelloWorld/obj/x86/Debug/04.HelloWorld.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpFundamentals/01.Introduction to Programming/04.HelloWorld/obj/x86/Debug/04.HelloWorld.exe.mdb

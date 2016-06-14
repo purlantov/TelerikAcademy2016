@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/01.AllocateArray/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/01.AllocateArray/bin/Debug/01.AllocateArray.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/01.AllocateArray/bin/Debug/01.AllocateArray.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/01.AllocateArray/obj/x86/Debug/01.AllocateArray.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/01.AllocateArray/obj/x86/Debug/01.AllocateArray.exe.mdb

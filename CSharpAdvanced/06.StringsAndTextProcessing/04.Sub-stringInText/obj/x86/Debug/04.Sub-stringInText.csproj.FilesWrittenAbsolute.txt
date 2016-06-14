@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/04.Sub-stringInText/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/04.Sub-stringInText/bin/Debug/04.Sub-stringInText.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/04.Sub-stringInText/bin/Debug/04.Sub-stringInText.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/04.Sub-stringInText/obj/x86/Debug/04.Sub-stringInText.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/04.Sub-stringInText/obj/x86/Debug/04.Sub-stringInText.exe.mdb

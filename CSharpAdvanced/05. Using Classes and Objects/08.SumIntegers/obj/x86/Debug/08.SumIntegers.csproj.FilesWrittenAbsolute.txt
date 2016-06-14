@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/08.SumIntegers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/08.SumIntegers/bin/Debug/08.SumIntegers.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/08.SumIntegers/bin/Debug/08.SumIntegers.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/08.SumIntegers/obj/x86/Debug/08.SumIntegers.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/08.SumIntegers/obj/x86/Debug/08.SumIntegers.exe.mdb

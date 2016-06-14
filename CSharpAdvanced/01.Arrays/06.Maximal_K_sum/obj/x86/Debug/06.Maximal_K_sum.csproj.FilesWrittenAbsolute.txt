@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/06.Maximal_K_sum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/06.Maximal_K_sum/bin/Debug/06.Maximal_K_sum.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/06.Maximal_K_sum/bin/Debug/06.Maximal_K_sum.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/06.Maximal_K_sum/obj/x86/Debug/06.Maximal_K_sum.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/06.Maximal_K_sum/obj/x86/Debug/06.Maximal_K_sum.exe.mdb

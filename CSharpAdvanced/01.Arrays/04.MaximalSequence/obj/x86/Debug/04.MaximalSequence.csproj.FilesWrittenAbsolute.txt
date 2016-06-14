@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/04.MaximalSequence/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/04.MaximalSequence/bin/Debug/04.MaximalSequence.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/04.MaximalSequence/bin/Debug/04.MaximalSequence.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/04.MaximalSequence/obj/x86/Debug/04.MaximalSequence.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/04.MaximalSequence/obj/x86/Debug/04.MaximalSequence.exe.mdb

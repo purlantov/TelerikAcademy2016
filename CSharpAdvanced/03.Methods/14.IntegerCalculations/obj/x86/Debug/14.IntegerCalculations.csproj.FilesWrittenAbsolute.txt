@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/14.IntegerCalculations/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/14.IntegerCalculations/bin/Debug/14.IntegerCalculations.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/14.IntegerCalculations/bin/Debug/14.IntegerCalculations.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/14.IntegerCalculations/obj/x86/Debug/14.IntegerCalculations.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/14.IntegerCalculations/obj/x86/Debug/14.IntegerCalculations.exe.mdb

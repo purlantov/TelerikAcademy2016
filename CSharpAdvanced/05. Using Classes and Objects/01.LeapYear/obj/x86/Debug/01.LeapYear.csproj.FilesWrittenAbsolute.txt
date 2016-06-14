@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/01.LeapYear/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/01.LeapYear/bin/Debug/01.LeapYear.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/01.LeapYear/bin/Debug/01.LeapYear.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/01.LeapYear/obj/x86/Debug/01.LeapYear.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/05. Using Classes and Objects/01.LeapYear/obj/x86/Debug/01.LeapYear.exe.mdb

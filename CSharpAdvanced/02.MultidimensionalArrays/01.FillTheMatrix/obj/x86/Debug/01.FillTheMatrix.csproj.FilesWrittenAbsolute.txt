@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/01.FillTheMatrix/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/01.FillTheMatrix/bin/Debug/01.FillTheMatrix.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/01.FillTheMatrix/bin/Debug/01.FillTheMatrix.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/01.FillTheMatrix/obj/x86/Debug/01.FillTheMatrix.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/01.FillTheMatrix/obj/x86/Debug/01.FillTheMatrix.exe.mdb

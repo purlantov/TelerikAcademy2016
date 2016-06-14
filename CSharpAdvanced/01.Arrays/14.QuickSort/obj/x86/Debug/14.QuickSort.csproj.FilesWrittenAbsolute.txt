@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/14.QuickSort/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/14.QuickSort/bin/Debug/14.QuickSort.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/14.QuickSort/bin/Debug/14.QuickSort.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/14.QuickSort/obj/x86/Debug/14.QuickSort.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/14.QuickSort/obj/x86/Debug/14.QuickSort.exe.mdb

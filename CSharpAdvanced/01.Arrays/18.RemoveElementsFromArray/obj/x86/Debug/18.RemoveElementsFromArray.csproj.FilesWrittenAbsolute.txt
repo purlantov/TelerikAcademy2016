@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/18.RemoveElementsFromArray/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/18.RemoveElementsFromArray/bin/Debug/18.RemoveElementsFromArray.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/18.RemoveElementsFromArray/bin/Debug/18.RemoveElementsFromArray.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/18.RemoveElementsFromArray/obj/x86/Debug/18.RemoveElementsFromArray.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/18.RemoveElementsFromArray/obj/x86/Debug/18.RemoveElementsFromArray.exe.mdb

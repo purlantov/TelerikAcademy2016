@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="07.OneSystemToAnyOther/07.OneSystemToAnyOther.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.OneSystemToAnyOther/Program.cs">
+    <Files>
+      <File FileName="07.OneSystemToAnyOther/Program.cs" Line="11" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

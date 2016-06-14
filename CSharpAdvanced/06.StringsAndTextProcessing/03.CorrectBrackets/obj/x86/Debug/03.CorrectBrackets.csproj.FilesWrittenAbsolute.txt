@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/03.CorrectBrackets/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/03.CorrectBrackets/bin/Debug/03.CorrectBrackets.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/03.CorrectBrackets/bin/Debug/03.CorrectBrackets.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/03.CorrectBrackets/obj/x86/Debug/03.CorrectBrackets.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/03.CorrectBrackets/obj/x86/Debug/03.CorrectBrackets.exe.mdb

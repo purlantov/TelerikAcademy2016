@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/03.DecimalToHex/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/03.DecimalToHex/bin/Debug/03.DecimalToHex.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/03.DecimalToHex/bin/Debug/03.DecimalToHex.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/03.DecimalToHex/obj/x86/Debug/03.DecimalToHex.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/03.DecimalToHex/obj/x86/Debug/03.DecimalToHex.exe.mdb

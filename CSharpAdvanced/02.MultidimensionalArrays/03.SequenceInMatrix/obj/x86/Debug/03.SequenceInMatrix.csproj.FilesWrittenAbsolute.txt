@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/03.SequenceInMatrix/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/03.SequenceInMatrix/bin/Debug/03.SequenceInMatrix.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/03.SequenceInMatrix/bin/Debug/03.SequenceInMatrix.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/03.SequenceInMatrix/obj/x86/Debug/03.SequenceInMatrix.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/03.SequenceInMatrix/obj/x86/Debug/03.SequenceInMatrix.exe.mdb

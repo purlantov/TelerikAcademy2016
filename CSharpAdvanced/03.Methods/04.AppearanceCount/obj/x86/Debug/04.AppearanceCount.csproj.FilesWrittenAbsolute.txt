@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/04.AppearanceCount/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/04.AppearanceCount/bin/Debug/04.AppearanceCount.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/04.AppearanceCount/bin/Debug/04.AppearanceCount.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/04.AppearanceCount/obj/x86/Debug/04.AppearanceCount.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/03.Methods/04.AppearanceCount/obj/x86/Debug/04.AppearanceCount.exe.mdb

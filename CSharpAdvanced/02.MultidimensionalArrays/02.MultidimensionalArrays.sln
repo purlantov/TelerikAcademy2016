@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FillTheMatrix", "01.FillTheMatrix\01.FillTheMatrix.csproj", "{4260A0D4-54CD-44CF-A7E6-A3A8B90A8B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MaximalSum", "02.MaximalSum\02.MaximalSum.csproj", "{91C49C7F-8BF4-4E40-BE42-D6F9B7F43C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SequenceInMatrix", "03.SequenceInMatrix\03.SequenceInMatrix.csproj", "{D7AA3584-3045-44EA-9044-A3E0C72840BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4260A0D4-54CD-44CF-A7E6-A3A8B90A8B38}.Debug|x86.ActiveCfg = Debug|x86
+		{4260A0D4-54CD-44CF-A7E6-A3A8B90A8B38}.Debug|x86.Build.0 = Debug|x86
+		{4260A0D4-54CD-44CF-A7E6-A3A8B90A8B38}.Release|x86.ActiveCfg = Release|x86
+		{4260A0D4-54CD-44CF-A7E6-A3A8B90A8B38}.Release|x86.Build.0 = Release|x86
+		{91C49C7F-8BF4-4E40-BE42-D6F9B7F43C67}.Debug|x86.ActiveCfg = Debug|x86
+		{91C49C7F-8BF4-4E40-BE42-D6F9B7F43C67}.Debug|x86.Build.0 = Debug|x86
+		{91C49C7F-8BF4-4E40-BE42-D6F9B7F43C67}.Release|x86.ActiveCfg = Release|x86
+		{91C49C7F-8BF4-4E40-BE42-D6F9B7F43C67}.Release|x86.Build.0 = Release|x86
+		{D7AA3584-3045-44EA-9044-A3E0C72840BB}.Debug|x86.ActiveCfg = Debug|x86
+		{D7AA3584-3045-44EA-9044-A3E0C72840BB}.Debug|x86.Build.0 = Debug|x86
+		{D7AA3584-3045-44EA-9044-A3E0C72840BB}.Release|x86.ActiveCfg = Release|x86
+		{D7AA3584-3045-44EA-9044-A3E0C72840BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

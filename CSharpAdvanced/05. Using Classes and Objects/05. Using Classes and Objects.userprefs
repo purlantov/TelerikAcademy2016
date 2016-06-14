@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="08.SumIntegers/08.SumIntegers.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="08.SumIntegers/Program.cs">
+    <Files>
+      <File FileName="01.LeapYear/Program.cs" Line="1" Column="1" />
+      <File FileName="04.TriangleSurface/Program.cs" Line="1" Column="1" />
+      <File FileName="05.TriangleSurface/Program.cs" Line="1" Column="1" />
+      <File FileName="06.TriangleSurface/Program.cs" Line="67" Column="32" />
+      <File FileName="08.SumIntegers/Program.cs" Line="11" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

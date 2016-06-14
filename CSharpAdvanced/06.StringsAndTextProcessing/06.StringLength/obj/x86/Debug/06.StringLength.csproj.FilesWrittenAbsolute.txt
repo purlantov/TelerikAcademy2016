@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/06.StringLength/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/06.StringLength/bin/Debug/06.StringLength.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/06.StringLength/bin/Debug/06.StringLength.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/06.StringLength/obj/x86/Debug/06.StringLength.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/06.StringLength/obj/x86/Debug/06.StringLength.exe.mdb

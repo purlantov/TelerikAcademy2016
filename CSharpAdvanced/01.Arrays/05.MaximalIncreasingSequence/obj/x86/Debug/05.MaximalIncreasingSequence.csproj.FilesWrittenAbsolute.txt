@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/05.MaximalIncreasingSequence/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/05.MaximalIncreasingSequence/bin/Debug/05.MaximalIncreasingSequence.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/05.MaximalIncreasingSequence/bin/Debug/05.MaximalIncreasingSequence.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/05.MaximalIncreasingSequence/obj/x86/Debug/05.MaximalIncreasingSequence.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/01.Arrays/05.MaximalIncreasingSequence/obj/x86/Debug/05.MaximalIncreasingSequence.exe.mdb

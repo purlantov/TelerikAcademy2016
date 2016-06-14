@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/02.MaximalSum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/02.MaximalSum/bin/Debug/02.MaximalSum.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/02.MaximalSum/bin/Debug/02.MaximalSum.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/02.MaximalSum/obj/x86/Debug/02.MaximalSum.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/02.MultidimensionalArrays/02.MaximalSum/obj/x86/Debug/02.MaximalSum.exe.mdb

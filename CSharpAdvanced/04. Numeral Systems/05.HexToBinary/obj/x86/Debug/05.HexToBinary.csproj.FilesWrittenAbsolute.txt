@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/05.HexToBinary/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/05.HexToBinary/bin/Debug/05.HexToBinary.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/05.HexToBinary/bin/Debug/05.HexToBinary.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/05.HexToBinary/obj/x86/Debug/05.HexToBinary.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/04. Numeral Systems/05.HexToBinary/obj/x86/Debug/05.HexToBinary.exe.mdb

@@ -1,0 +1,5 @@
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/10.UnicodeCharacters/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/10.UnicodeCharacters/bin/Debug/10.UnicodeCharacters.exe.mdb
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/10.UnicodeCharacters/bin/Debug/10.UnicodeCharacters.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/10.UnicodeCharacters/obj/x86/Debug/10.UnicodeCharacters.exe
+/home/pavel/Documents/GitHub/TelerikAcademy2016/CSharpAdvanced/06.StringsAndTextProcessing/10.UnicodeCharacters/obj/x86/Debug/10.UnicodeCharacters.exe.mdb
