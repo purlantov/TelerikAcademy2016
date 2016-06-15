@@ -1,18 +1,19 @@
-﻿using System;
-
-namespace DefineClass
+﻿namespace DefineClass
 {
+	using System;
+
 	public class GSM
 	{
 		//
-		//variables
+		//Fields
 		//
 		private string model;
 		private string manufacturer;
-		private int price;
+		private decimal price;
 		private string owner;
 		private Battery battery;
 		private Display display;
+		private static readonly GSM IPhone4S = new GSM ("4S", "Apple", 500, "Ivan", new Display (4), new Battery (null, Battery.BatteryType.LiIon, 168, 48));
 
 		//
 		//Constructors
@@ -48,14 +49,28 @@ namespace DefineClass
 			set{ this.manufacturer = value; }
 		}
 
-		public int Price { 
+		public decimal Price { 
 			get{ return this.price; }
-			set{ this.price = value; }
+			set {
+				if (value < 0) {
+					Console.WriteLine ("Enter positive value for the price!");
+				} else {
+					this.price = value;
+				}
+			}
 		}
 
 		public string Owner { 
 			get{ return this.owner; }
 			set{ this.owner = value; }
+		}
+
+		//
+		//Methods
+		//
+		public override string ToString ()
+		{
+			return string.Format ("[GSM: Model={0}, Manufacturer={1}, Price={2}, Owner={3}]", Model, Manufacturer, Price, Owner);
 		}
 	}
 }

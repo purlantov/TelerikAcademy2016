@@ -1,15 +1,15 @@
-﻿using System;
-
-namespace DefineClass
+﻿namespace DefineClass
 {
+	using System;
+
 	public class Battery
 	{
 		//
 		//Variables
 		//
 		private string model;
-		private int hoursIdle;
-		private int hoursTalk;
+		private int? hoursIdle;
+		private int? hoursTalk;
 
 		public enum BatteryType
 		{
@@ -40,14 +40,24 @@ namespace DefineClass
 			set{ this.model = value; }
 		}
 
-		public int HoursIdle {
+		public int? HoursIdle {
 			get{ return this.hoursIdle; }
-			set{ this.hoursIdle = value; }
+			set { 
+				if (value < 0) {
+					throw new ArgumentException ("Hours idle must be positive number!");
+				}
+				this.hoursIdle = value;
+			}
 		}
 
-		public int HoursTalk {
+		public int? HoursTalk {
 			get{ return this.hoursTalk; }
-			set{ this.hoursTalk = value; }
+			set {
+				if (value < 0) {
+					throw new ArgumentException ("Hours talk must be positive number!");
+				}
+				this.hoursTalk = value;
+			}
 		}
 	}
 }
