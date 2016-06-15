@@ -33,12 +33,13 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GSM.cs" />
     <Compile Include="Battery.cs" />
     <Compile Include="Display.cs" />
     <Compile Include="GSMTest.cs" />
+    <Compile Include="Call.cs" />
+    <Compile Include="StartUp.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

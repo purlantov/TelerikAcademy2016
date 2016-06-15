@@ -1,6 +1,7 @@
 ﻿namespace DefineClass
 {
 	using System;
+	using System.Collections.Generic;
 
 	public class GSM
 	{
@@ -13,7 +14,8 @@
 		private string owner;
 		private Battery battery;
 		private Display display;
-		private static readonly GSM IPhone4S = new GSM ("4S", "Apple", 500, "Ivan", new Display (4), new Battery (null, Battery.BatteryType.LiIon, 168, 48));
+		public static readonly GSM IPhone4S = new GSM ("4S", "Apple", 500, "Ivan", new Display (4), new Battery (null, Battery.BatteryType.LiIon, 168, 48));
+		private List<Call> callHistory = new List<Call> ();
 
 		//
 		//Constructors
@@ -65,12 +67,26 @@
 			set{ this.owner = value; }
 		}
 
+		public List<Call> CallHistory {
+			get { return this.callHistory; }
+		}
+
 		//
 		//Methods
 		//
 		public override string ToString ()
 		{
 			return string.Format ("[GSM: Model={0}, Manufacturer={1}, Price={2}, Owner={3}]", Model, Manufacturer, Price, Owner);
+		}
+
+		public void AddCall (Call call)
+		{
+			CallHistory.Add (call);
+		}
+
+		public void DeleteCall (int index)
+		{
+			CallHistory.RemoveAt (index);
 		}
 	}
 }

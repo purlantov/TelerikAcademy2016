@@ -28,6 +28,9 @@ namespace DefineClass
 		public double DisplaySize { 
 			get{ return displaySize; } 
 			set {
+				if (value < 0) {
+					throw new ArgumentException ("Display size can not be negative!");
+				}
 				this.displaySize = value;
 			} 
 		}
