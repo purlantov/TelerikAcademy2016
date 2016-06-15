@@ -1,10 +1,10 @@
-﻿using System;
-
-namespace DefineClass
+﻿namespace DefineClass
 {
+	using System;
+
 	public class GSMTest
 	{
-		public static void Test()
+		public static void Test ()
 		{
 			var gsmArray = new GSM[] {
 				new GSM ("3310", "Nokia"),

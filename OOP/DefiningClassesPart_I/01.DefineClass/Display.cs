@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace DefineClass
+﻿namespace DefineClass
 {
+	using System;
+
 	public class Display
 	{
 		//

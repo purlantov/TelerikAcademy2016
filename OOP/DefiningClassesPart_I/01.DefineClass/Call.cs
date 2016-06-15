@@ -8,7 +8,7 @@
 		//Fields
 		//
 		private DateTime date;
-		private DateTime time;
+		private string time;
 		private string number;
 		private int duration;
 
@@ -19,7 +19,7 @@
 		{
 		}
 
-		public Call (DateTime date, DateTime time, string number, int duration)
+		public Call (DateTime date, string time, string number, int duration)
 		{
 			this.Date = date;
 			this.Time = time;
@@ -35,7 +35,7 @@
 			set{ this.date = value; }
 		}
 
-		public DateTime Time {
+		public string Time {
 			get{ return this.time; }
 			set{ this.time = value; }
 		}
@@ -48,6 +48,14 @@
 		public int Duration {
 			get { return this.duration; }
 			set { this.duration = value; }
+		}
+
+		//
+		//Methods
+		//
+		public override string ToString ()
+		{
+			return string.Format ("[Call: Date={0}, Time={1}, Number={2}, Duration={3} sec.]", Date, Time, Number, Duration);
 		}
 	}
 }

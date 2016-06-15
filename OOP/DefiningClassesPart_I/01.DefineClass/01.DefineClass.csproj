@@ -40,6 +40,7 @@
     <Compile Include="GSMTest.cs" />
     <Compile Include="Call.cs" />
     <Compile Include="StartUp.cs" />
+    <Compile Include="GSMCallHistoryTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

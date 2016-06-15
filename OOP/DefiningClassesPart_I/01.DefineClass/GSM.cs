@@ -16,6 +16,7 @@
 		private Display display;
 		public static readonly GSM IPhone4S = new GSM ("4S", "Apple", 500, "Ivan", new Display (4), new Battery (null, Battery.BatteryType.LiIon, 168, 48));
 		private List<Call> callHistory = new List<Call> ();
+		private const double costPerMinute = 0.30;
 
 		//
 		//Constructors
@@ -87,6 +88,37 @@
 		public void DeleteCall (int index)
 		{
 			CallHistory.RemoveAt (index);
+		}
+
+		public void RemoveAllCalls ()
+		{
+			for (int i = 0; i < CallHistory.Count; i++) {
+				DeleteCall (i);
+			}
+		}
+
+		public void RemoveLongestCall ()
+		{
+			int duration = 0;
+			int index = 0;
+			for (int i = 0; i < CallHistory.Count; i++) {
+				if (CallHistory [i].Duration > duration) {
+					duration = CallHistory [i].Duration;
+					index = i;
+				}
+			}
+			DeleteCall (index);
+		}
+
+		public double CallPrice (List<Call> callHistory)
+		{
+			double cost = 0;
+
+			foreach (var call in callHistory) {
+				cost += call.Duration * costPerMinute;
+			}
+
+			return cost;
 		}
 	}
 }
