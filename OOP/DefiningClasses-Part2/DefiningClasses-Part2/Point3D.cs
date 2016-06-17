@@ -4,7 +4,7 @@
 
 	public struct Point3D
 	{
-		public double X{ get; set; }
+		public double X { get; set; }
 
 		public double Y { get; set; }
 

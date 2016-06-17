@@ -1,1 +1,16 @@
-﻿<Properties StartupItem="DefiningClasses-Part2/DefiningClasses-Part2.csproj" />
+﻿<Properties StartupItem="DefiningClasses-Part2/DefiningClasses-Part2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefiningClasses-Part2/PathStorage.cs">
+    <Files>
+      <File FileName="DefiningClasses-Part2/Program.cs" Line="9" Column="4" />
+      <File FileName="DefiningClasses-Part2/Point3D.cs" Line="3" Column="15" />
+      <File FileName="DefiningClasses-Part2/Distance.cs" Line="10" Column="20" />
+      <File FileName="DefiningClasses-Part2/Path.cs" Line="6" Column="3" />
+      <File FileName="DefiningClasses-Part2/PathStorage.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

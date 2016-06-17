@@ -33,10 +33,12 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Point3D.cs" />
     <Compile Include="Distance.cs" />
+    <Compile Include="Path.cs" />
+    <Compile Include="PathStorage.cs" />
+    <Compile Include="PointTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
