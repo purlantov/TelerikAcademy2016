@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses-Part2", "DefiningClasses-Part2\DefiningClasses-Part2.csproj", "{012A9485-FE96-455F-ADE0-24DFD27A2563}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Point", "Point", "{462F7451-BEA0-4500-9B6C-6395687F43B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +17,11 @@ Global
 		{012A9485-FE96-455F-ADE0-24DFD27A2563}.Debug|x86.Build.0 = Debug|x86
 		{012A9485-FE96-455F-ADE0-24DFD27A2563}.Release|x86.ActiveCfg = Release|x86
 		{012A9485-FE96-455F-ADE0-24DFD27A2563}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{012A9485-FE96-455F-ADE0-24DFD27A2563} = {462F7451-BEA0-4500-9B6C-6395687F43B5}
 	EndGlobalSection
 EndGlobal
