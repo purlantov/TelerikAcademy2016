@@ -13,7 +13,7 @@
 		public static readonly Point3D basePoint = new Point3D (0, 0, 0);
 
 
-		public Point3D (double x, double y, double z)
+		public Point3D (double x, double y, double z) : this()
 		{
 			this.X = x;
 			this.Y = y;

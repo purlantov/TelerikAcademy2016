@@ -1,0 +1,6 @@
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\GenericListTest\bin\Debug\GenericListTest.exe.config
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\GenericListTest\bin\Debug\GenericListTest.exe
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\GenericListTest\bin\Debug\GenericListTest.pdb
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\GenericListTest\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\GenericListTest\obj\Debug\GenericListTest.exe
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\GenericListTest\obj\Debug\GenericListTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\Matrix\bin\Debug\Matrix.exe
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\Matrix\bin\Debug\Matrix.pdb
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\Matrix\obj\Debug\Matrix.exe
+C:\Users\pavel\Documents\GitHub\TelerikAcademy2016\OOP\DefiningClasses-Part2\Matrix\obj\Debug\Matrix.pdb
