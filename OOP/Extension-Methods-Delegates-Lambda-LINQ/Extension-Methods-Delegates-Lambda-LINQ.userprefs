@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="01.StringBuilder.Substring/01.StringBuilder.Substring.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.StringBuilder.Substring/Program.cs">
+    <Files>
+      <File FileName="01.StringBuilder.Substring/Program.cs" Line="17" Column="24" />
+      <File FileName="01.StringBuilder.Substring/Extensions.cs" Line="11" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
