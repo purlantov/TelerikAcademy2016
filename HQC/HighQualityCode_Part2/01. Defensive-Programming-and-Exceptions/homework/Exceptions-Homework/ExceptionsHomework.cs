@@ -20,7 +20,8 @@ namespace Exceptions_Homework
         {
             if (count > str.Length)
             {
-                return "Invalid count!";
+                throw new ExamException("Count is bigged than string lengh",
+                    new Exception("ExtractEnding method"));
             }
 
             StringBuilder result = new StringBuilder();
@@ -68,7 +69,7 @@ namespace Exceptions_Homework
             }
             catch (Exception ex)
             {
-                Console.WriteLine("23 is not prime");
+                throw new ArgumentException("23 is not prime");
             }
 
             try
@@ -78,7 +79,7 @@ namespace Exceptions_Homework
             }
             catch (Exception ex)
             {
-                Console.WriteLine("33 is not prime");
+                throw new ArgumentException("33 is not prime");
             }
 
             List<Exam> peterExams = new List<Exam>()
