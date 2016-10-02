@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Linq;
 using System.Text;
 
-namespace MatrixWalk
+namespace _01.MatrixWalk
 {
     public class MatrixRotatingWalk
     {

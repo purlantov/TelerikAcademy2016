@@ -1,8 +1,8 @@
 ﻿using System;
-using MatrixWalk;
 using NUnit.Framework;
+using _01.MatrixWalk;
 
-namespace TestMatrix
+namespace MatrixWak.Test
 {
     [TestFixture]
     public class MatrixTest
@@ -10,7 +10,7 @@ namespace TestMatrix
         [Test]
         public void CheckIfConstructorWorksAndMakeInstanceOfMatrix()
         {
-            MatrixRotatingWalk matrix = new MatrixRotatingWalk(2);
+            var matrix = new MatrixRotatingWalk(2);
             Assert.IsInstanceOf<MatrixRotatingWalk>(matrix);
         }
 
@@ -20,7 +20,7 @@ namespace TestMatrix
         [TestCase(10,10)]
         public void CheckIfConstructorSetRightAmountOfDimentionsTest(int dimmension, int expectedResult)
         {
-            MatrixRotatingWalk matrix = new MatrixRotatingWalk(dimmension);
+            var matrix = new MatrixRotatingWalk(dimmension);
             Assert.AreEqual(matrix.Dimentions, expectedResult);
         }
 
@@ -42,7 +42,7 @@ namespace TestMatrix
         [Test]
         public void OneDimentionTest()
         {
-            MatrixRotatingWalk matrix = new MatrixRotatingWalk(1);
+            var matrix = new MatrixRotatingWalk(1);
 
             Assert.IsTrue(matrix.ToString() == string.Format("  1{0}", Environment.NewLine));
         }
@@ -50,7 +50,7 @@ namespace TestMatrix
         [Test]
         public void TwoDimentionTest()
         {
-            MatrixRotatingWalk matrix = new MatrixRotatingWalk(2);
+            var matrix = new MatrixRotatingWalk(2);
 
             Assert.IsTrue(matrix.ToString() == string.Format("  1  4{0}  3  2{0}", Environment.NewLine));
         }
@@ -58,7 +58,7 @@ namespace TestMatrix
         [Test]
         public void ThreeDimentionTest()
         {
-            MatrixRotatingWalk matrix = new MatrixRotatingWalk(3);
+            var matrix = new MatrixRotatingWalk(3);
 
             Assert.AreEqual(matrix.ToString(), string.Format("  1  7  8{0}  6  2  9{0}  5  4  3{0}", Environment.NewLine));
         }
@@ -66,7 +66,7 @@ namespace TestMatrix
         [Test]
         public void SixDimentionTest()
         {
-            MatrixRotatingWalk matrix = new MatrixRotatingWalk(6);
+            var matrix = new MatrixRotatingWalk(6);
 
             Assert.AreEqual(matrix.ToString(), string.Format("{0}{6}{1}{6}{2}{6}{3}{6}{4}{6}{5}{6}",
                                                             "  1 16 17 18 19 20",
