@@ -1,14 +1,21 @@
 ﻿using System;
-using System.Linq;
 using System.Diagnostics;
 
 class AssertionsHomework
 {
+    public static int BinarySearch<T>(T[] arr, T value) where T : IComparable<T>
+    {
+        Debug.Assert(arr != null, "The array is null!");
+        Debug.Assert(value != null, "Binary serch value is null!");
+
+        return BinarySearch(arr, value, 0, arr.Length - 1);
+    }
+
     public static void SelectionSort<T>(T[] arr) where T : IComparable<T>
     {
         Debug.Assert(arr != null, "The input array is empty!");
 
-        for (int index = 0; index < arr.Length-1; index++)
+        for (int index = 0; index < arr.Length - 1; index++)
         {
             int minElementIndex = FindMinElementIndex(arr, index, arr.Length - 1);
             Swap(ref arr[index], ref arr[minElementIndex]);
@@ -20,45 +27,8 @@ class AssertionsHomework
             Debug.Assert(arr[i].CompareTo(arr[i + 1]) <= 0, "Array is not sorted!");
         }
     }
-  
-    private static int FindMinElementIndex<T>(T[] arr, int startIndex, int endIndex) 
-        where T : IComparable<T>
-    {
-        Debug.Assert(arr != null, "The array is null!");
-        Debug.Assert(startIndex >= 0, "Start index must be positive!");
-        Debug.Assert(endIndex >= 0, "End index must be postive!");
-        Debug.Assert(startIndex <= arr.Length - 1, "Start index must be smaller than the array length!");
-        Debug.Assert(endIndex <= arr.Length - 1, "End index must be smaller than the array length!");
-        Debug.Assert(startIndex <= endIndex, "Start index can not be greater then the end index!");
 
-        int minElementIndex = startIndex;
-        for (int i = startIndex + 1; i <= endIndex; i++)
-        {
-            if (arr[i].CompareTo(arr[minElementIndex]) < 0)
-            {
-                minElementIndex = i;
-            }
-        }
-        return minElementIndex;
-    }
-
-    private static void Swap<T>(ref T x, ref T y)
-    {
-        T oldX = x;
-        x = y;
-        y = oldX;
-    }
-
-    public static int BinarySearch<T>(T[] arr, T value) where T : IComparable<T>
-    {
-        Debug.Assert(arr != null, "The array is null!");
-        Debug.Assert(value != null, "Binary serch value is null!");
-
-        return BinarySearch(arr, value, 0, arr.Length - 1);
-    }
-
-    private static int BinarySearch<T>(T[] arr, T value, int startIndex, int endIndex) 
-        where T : IComparable<T>
+    private static int BinarySearch<T>(T[] arr, T value, int startIndex, int endIndex) where T : IComparable<T>
     {
         Debug.Assert(arr != null, "The array is null!");
         Debug.Assert(value != null, "Binary serch value is null!");
@@ -75,12 +45,13 @@ class AssertionsHomework
             {
                 return midIndex;
             }
+
             if (arr[midIndex].CompareTo(value) < 0)
             {
                 // Search on the right half
                 startIndex = midIndex + 1;
             }
-            else 
+            else
             {
                 // Search on the right half
                 endIndex = midIndex - 1;
@@ -91,9 +62,30 @@ class AssertionsHomework
         return -1;
     }
 
+    private static int FindMinElementIndex<T>(T[] arr, int startIndex, int endIndex) where T : IComparable<T>
+    {
+        Debug.Assert(arr != null, "The array is null!");
+        Debug.Assert(startIndex >= 0, "Start index must be positive!");
+        Debug.Assert(endIndex >= 0, "End index must be postive!");
+        Debug.Assert(startIndex <= arr.Length - 1, "Start index must be smaller than the array length!");
+        Debug.Assert(endIndex <= arr.Length - 1, "End index must be smaller than the array length!");
+        Debug.Assert(startIndex <= endIndex, "Start index can not be greater then the end index!");
+
+        int minElementIndex = startIndex;
+        for (int i = startIndex + 1; i <= endIndex; i++)
+        {
+            if (arr[i].CompareTo(arr[minElementIndex]) < 0)
+            {
+                minElementIndex = i;
+            }
+        }
+
+        return minElementIndex;
+    }
+
     static void Main()
     {
-        int[] arr = new int[] { 3, -1, 15, 4, 17, 2, 33, 0 };
+        int[] arr = new[] { 3, -1, 15, 4, 17, 2, 33, 0 };
         Console.WriteLine("arr = [{0}]", string.Join(", ", arr));
         SelectionSort(arr);
         Console.WriteLine("sorted = [{0}]", string.Join(", ", arr));
@@ -106,5 +98,12 @@ class AssertionsHomework
         Console.WriteLine(BinarySearch(arr, 17));
         Console.WriteLine(BinarySearch(arr, 10));
         Console.WriteLine(BinarySearch(arr, 1000));
+    }
+
+    private static void Swap<T>(ref T x, ref T y)
+    {
+        T oldX = x;
+        x = y;
+        y = oldX;
     }
 }
