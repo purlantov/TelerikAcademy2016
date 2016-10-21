@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="students.xslt" type="text/xsl" ?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Ivan</name>
+    <sex>male</sex>
+    <birthday>01.02.1998</birthday>
+    <gsm>08XX XXX XXX</gsm>
+    <email>ivan@gmail.com</email>
+    <course>DataBase</course>
+    <specialty>Management</specialty>
+    <faculty>
+      <number>131432</number>
+    </faculty>
+    <exams>
+      <exam>
+        <name>CSharp Fundamentals</name>
+        <score>366</score>
+      </exam>
+      <exam>
+        <name>CSharp_Advance</name>
+        <score>266</score>
+      </exam>
+      <exam>
+        <name>CSharp_OOP</name>
+        <score>166</score>
+      </exam>
+      <exam>
+        <name>Unit Testing</name>
+        <score>66</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Pesho</name>
+    <sex>male</sex>
+    <birthday>01.02.1990</birthday>
+    <gsm>08XX XXX XXX</gsm>
+    <email>pesho@gmail.com</email>
+    <course>DataBase</course>
+    <specialty>CST</specialty>
+    <faculty>
+      <number>6873693</number>
+    </faculty>
+    <exams>
+      <exam>
+        <name>CSharp Fundamentals</name>
+        <score>500</score>
+      </exam>
+      <exam>
+        <name>CSharp_Advance</name>
+        <score>401</score>
+      </exam>
+      <exam>
+        <name>CSharp_OOP</name>
+        <score>200</score>
+      </exam>
+      <exam>
+        <name>Unit Testing</name>
+        <score>200</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Natalia</name>
+    <sex>female</sex>
+    <birthday>01.02.1992</birthday>
+    <gsm>08XX XXX XXX</gsm>
+    <email>natalia@gmail.com</email>
+    <course>DataBase</course>
+    <specialty>Architecture</specialty>
+    <faculty>
+      <number>67263982</number>
+    </faculty>
+    <exams>
+      <exam>
+        <name>CSharp Fundamentals</name>
+        <score>500</score>
+      </exam>
+      <exam>
+        <name>CSharp_Advance</name>
+        <score>421</score>
+      </exam>
+      <exam>
+        <name>CSharp_OOP</name>
+        <score>200</score>
+      </exam>
+      <exam>
+        <name>Unit Testing</name>
+        <score>188</score>
+      </exam>
+    </exams>
+  </student>
+</students>
