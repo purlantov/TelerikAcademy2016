@@ -1,0 +1,46 @@
+## Database Systems Overview Homework
+
+1. What database models do you know?
+  - Hierarchical database model
+  - Network model
+	- Relational model
+	- Entity-relationship model
+	- Object model
+	- Document model
+	- Star schema
+- Which are the main functions performed by a Relational Database Management System (RDBMS)?
+	- Present the data to the user as relations – tabular form, collection of tables etc.
+	- Provide relational operators to manipulate the data in tabular form.
+  - Create/Alter/Delete tables and relations between them.
+  - Add/Change/Delete/Search/Retrieve data stored in tables.
+  - Support for SQL language.
+  - Transaction management.
+- Define what is "table" in database terms.
+  - Table is a set of data elements(values) that is organized using a model of vertical columns  and horizontal rows. A cell is a unit where a row and column intersect. Each row is identified by the values appearing in a particular column subset which could be identified as a unique key.
+- Explain the difference between a primary and a foreign key.
+  - A primary key is a value that is unique for every row of atable. Foreign key is a field that uniquely identifies a row of another table.
+- Explain the different kinds of relationships between tables in relational databases.
+  - One-to-many – one element from a table can point to multiple entries in another and vice versa.
+  - Many-to-many – entries can point to entries to another table and can be pointed to from other tables. Implemented with an intermediary table.
+  - One-to-one – most common relation. One entry from one table points to another from another table. Can be used to create inheritance between tables.
+- When is a certain database schema normalized? What are the advantages of normalized databases?
+  - When redundancy and dependancy are minimized a database is considered normalized. This is usually done through dividing big tables and defining relationships between them. It uses more CPU power to find data when doing operations with tables, but can significantly lower the memory footprint of a database.
+- What are database integrity constraints and when are they used?
+  - Integrity constraints are different restrictions used to ensure data accuracy and consistency in a database.
+- Point out the pros and cons of using indexes in a database.
+  - Indexes are used to improve the speed of data retrieval. The disadvantage is that they slow down write operations and use more storage space.
+- What's the main purpose of the SQL language?
+  - Manage data stored in relational databases.
+- What are transactions used for? Give an example.
+  - A transaction is sequence of operations done in a database which is preformed as one unit of work. This prevents failures in cases of concurrency, system failure, cancellation or uncompleted tasks.
+  - Withdrawal from a bank accout.
+- What is a NoSQL database?
+  - Mechanism for storage and retrieval of data that uses looses consistency models rather than traditional relational databases. They have much simpler design and support horizontal scaling – adding hardware == more performance.
+- Explain the classical non-relational data models.
+  - The central concept of a document store is the notion of a "document". While each document-oriented database implementation differs on the details of this definition, in general, they all assume that documents encapsulate and encode data (or information) in some standard formats or encodings. Encodings in use include XML, YAML, and JSON as well as binary forms like BSON, PDF and Microsoft Office documents (MS Word, Excel, and so on).
+- Give few examples of NoSQL databases and their pros and cons.
+  - NoSQL databases – CouchDB, MongoDB, RavenDB
+    - Easier to manage than SQL databases
+    - Provide horizontal scaling
+    - Fault-tolerant architecture
+    - Cannot fully guarantee ACID properties
