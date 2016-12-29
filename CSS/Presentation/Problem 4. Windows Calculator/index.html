@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="pane">
+            <ol>
+                <li>View</li>
+                <li>Edit</li>
+                <li>Help</li>
+            </ol>
+        </div>
+        <div class="display">
+        </div>
+        <div class="programmer-byte"></div>
+        <form class="numerics">
+            <input type="radio" name="numeric-system" value="hex"> Hex<br>
+            <input type="radio" name="numeric-system" value="dec"> Dec<br>
+            <input type="radio" name="numeric-system" value="oct"> Oct<br>
+            <input type="radio" name="numeric-system" value="bin"> Bin
+        </form>
+        <form class="bytes">
+            <input type="radio" name="byte" value="qword"> Qword<br>
+            <input type="radio" name="byte" value="dword"> Dword<br>
+            <input type="radio" name="byte" value="word"> Word<br>
+            <input type="radio" name="byte" value="byte"> Byte
+        </form>
+        <table class="dialpad">
+            <tr>
+                <td></td>
+                <td>MOD</td>
+                <td>A</td>
+                <td>MC</td>
+                <td>MR</td>
+                <td>MS</td>
+                <td>M+</td>
+                <td>M-</td>
+            </tr>
+            <tr>
+                <td>(</td>
+                <td>)</td>
+                <td>B</td>
+                <td>&#8592</td>
+                <td>CE</td>
+                <td>C</td>
+                <td>&#8723</td>
+                <td>&#8730</td>
+            </tr>
+            <tr>
+                <td>RoL</td>
+                <td>RoR</td>
+                <td>C</td>
+                <td>7</td>
+                <td>8</td>
+                <td>9</td>
+                <td>/</td>
+                <td>%</td>
+            </tr>
+            <tr>
+                <td>Or</td>
+                <td>XoR</td>
+                <td>D</td>
+                <td>4</td>
+                <td>5</td>
+                <td>6</td>
+                <td>*</td>
+                <td>1/x</td>
+            </tr>
+            <tr>
+                <td>Lsh</td>
+                <td>Rsh</td>
+                <td>E</td>
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>-</td>
+                <td rowspan="2">=</td>
+            </tr>
+            <tr>
+                <td>Not</td>
+                <td>And</td>
+                <td>F</td>
+                <td colspan="2">0</td>
+                <td>.</td>
+                <td>+</td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>

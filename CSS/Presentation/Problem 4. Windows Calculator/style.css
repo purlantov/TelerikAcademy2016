@@ -1,0 +1,80 @@
+/*
+    Best view on Mozilla Firefox
+*/
+
+.wrapper {
+    background-color: #D9E4F1;
+    width: 450px;
+    height: 410px;
+}
+
+div li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+.pane {
+    background-color: gray;
+}
+
+.display {
+    height: 60px;
+    border: 1px solid #9FAEC0;
+    border-radius: 5px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#E5EEFB), to(#fff));
+    background-image: -webkit-linear-gradient(top, #E5EEFB, #fff);
+    background-image: -moz-linear-gradient(top, #E5EEFB, #fff);
+    background-image: linear-gradient(to bottom, #E5EEFB, #fff);
+}
+
+.programmer-byte {
+    border: 1px solid #9FAEC0;
+    border-radius: 5px;
+    height: 60px;
+}
+
+table td {
+    border: 1px solid #9FAEC0;
+    border-radius: 3px;
+    width: 33px;
+    height: 33px;
+    text-align: center;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#EEF4FA), to(#D5E0EE));
+    background-image: -webkit-linear-gradient(top, #EEF4FA, #D5E0EE);
+    background-image: -moz-linear-gradient(top, #EEF4FA, #D5E0EE);
+    background-image: linear-gradient(to bottom, #EEF4FA, #D5E0EE);
+}
+
+table td:hover {
+    border: 1px solid #E8DA69;
+    border-radius: 3px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FEEEDF), to(#FBDA81));
+    background-image: -webkit-linear-gradient(top, #FEEEDF, #FBDA81);
+    background-image: -moz-linear-gradient(top, #FEEEDF, #FBDA81);
+    background-image: linear-gradient(to bottom, #FEEEDF, #FBDA81);
+}
+
+.bytes {
+    border: 1px solid #9FAEC0;
+    border-radius: 5px;
+    padding: 5px 9px;
+    float: left;
+    position: absolute;
+    top: 18.65em;
+}
+
+.numerics {
+    border: 1px solid #9FAEC0;
+    border-radius: 5px;
+    padding: 6px 32px 6px 9px;
+    float: left;
+    position: relative;
+    top: 0.3em;
+}
+
+.dialpad {
+    position: relative;
+    left: 0.5em;
+    top: 0.1em;
+}

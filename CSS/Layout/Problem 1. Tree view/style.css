@@ -1,0 +1,17 @@
+ol {
+    list-style-type: none;
+}
+
+.sub-list {
+    display: none;
+}
+
+.mian-list:hover .sub-list {
+    display: block;
+    color: grey;
+    text-decoration: underline white;
+}
+
+li.mian-list:hover {
+    text-decoration: underline;
+}

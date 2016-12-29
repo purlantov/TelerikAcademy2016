@@ -1,8 +1,8 @@
-﻿namespace DefineClass
-{
-	using System;
+﻿using System;
 
-	class StartUp
+namespace DefineClass
+{
+	public class StartUp
 	{
 		public static void Main (string[] args)
 		{

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{32CD3987-DDC4-49F1-95CE-BC13331D0CD7}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.SumAndAverage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.RemoveOdd/StartUp.cs">
+    <Files>
+      <File FileName="06.RemoveOdd/StartUp.cs" Line="30" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04.LongestSubsequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.05.RemoveNegative PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.06.RemoveOdd PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

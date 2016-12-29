@@ -1,0 +1,24 @@
+body {
+    background-color: #595854;
+}
+
+table {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 9pt;
+}
+
+td {
+    color: white;
+}
+
+div {
+    color: rgb(166, 169, 169);
+}
+
+#name {
+    color: yellow;
+    width: 3em;
+    height: 3em;
+    background: limegreen;
+}

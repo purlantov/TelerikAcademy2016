@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{116D8B71-45F9-4CF2-BB5D-2158574FCB08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.Permutations/Program.cs">
+    <Files>
+      <File FileName="04.Permutations/Program.cs" Line="28" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.NestedLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.CombinationsWithDuplicates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.SkipDuplicates PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

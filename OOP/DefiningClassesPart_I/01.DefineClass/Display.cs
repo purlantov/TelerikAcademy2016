@@ -1,44 +1,63 @@
-﻿namespace DefineClass
+﻿using System;
+
+namespace DefineClass
 {
-	using System;
+    public class Display
+    {
+        //
+        //  Fields
+        //
+        private double displaySize;
+        private int numberOfColors;
 
-	public class Display
-	{
-		//
-		//Variables
-		//
-		private double displaySize;
-		private int numberOfColors;
+        //
+        //  Constructors
+        //
+        public Display()
+        {
+        }
 
-		//
-		//Constructors
-		//
-		public Display ()
-		{
-		}
+        public Display(double size)
+        {
+            this.DisplaySize = size;
+        }
 
-		public Display (double size)
-		{
-			this.DisplaySize = size;
-		}
+        public Display(double size, int colors)
+        {
+            this.displaySize = size;
+            this.NumberOfColors = colors;
+        }
 
-		//
-		//Properties
-		//
-		public double DisplaySize { 
-			get{ return displaySize; } 
-			set {
-				if (value < 0) {
-					throw new ArgumentException ("Display size can not be negative!");
-				}
-				this.displaySize = value;
-			} 
-		}
+        //
+        //  Properties
+        //
+        public double DisplaySize
+        {
+            get { return displaySize; }
 
-		public int NumberOfColors {
-			get{ return this.numberOfColors; }
-			set{ this.numberOfColors = value; }
-		}
-	}
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("Display size can not be negative!");
+                }
+                this.displaySize = value;
+            }
+        }
+
+        public int NumberOfColors
+        {
+            get { return this.numberOfColors; }
+
+            set
+            {
+                if (value <= 0)
+                {
+                    throw new ArgumentException("Colors of display can not be 0 or less than zero!");
+                }
+                this.numberOfColors = value;
+            }
+        }
+    }
 }
 

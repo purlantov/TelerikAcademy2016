@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BC99E8AF-D0DF-4FEB-BC5E-B86BCC15C11F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Trees__Graphs__HashTables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trees_Graphs_HashTables/StartUp.cs">
+    <Files>
+      <File FileName="Trees_Graphs_HashTables/StartUp.cs" Line="14" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

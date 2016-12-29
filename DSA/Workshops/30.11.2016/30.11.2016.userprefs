@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{69D802E2-EC77-4F09-929C-4B85F9C65217}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="30.11.2016/Program.cs">
+    <Files>
+      <File FileName="30.11.2016/Program.cs" Line="28" Column="9" />
+      <File FileName="30.11.2016/ReadMe.md" Line="63" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FindNumber__Cuci PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

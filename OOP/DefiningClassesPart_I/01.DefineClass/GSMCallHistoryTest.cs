@@ -1,7 +1,7 @@
-﻿namespace DefineClass
-{
-	using System;
+﻿using System;
 
+namespace DefineClass
+{
 	public class GSMCallHistoryTest
 	{
 		public GSMCallHistoryTest ()
@@ -10,7 +10,7 @@
 
 		public static void CallHistoryTest ()
 		{
-			GSM gsm = new GSM ("3310", "Nokia");
+			var gsm = new GSM ("3310", "Nokia");
 			gsm.AddCall (new Call (DateTime.Now.Date, DateTime.Now.ToShortTimeString (), "+3598886626262", 44));
 			gsm.AddCall (new Call (DateTime.Now.Date, DateTime.Now.ToShortTimeString (), "+3598886626262", 32));
 			gsm.AddCall (new Call (DateTime.Now.Date, DateTime.Now.ToShortTimeString (), "+3598886626262", 33));

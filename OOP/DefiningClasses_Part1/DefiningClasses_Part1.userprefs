@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{01F1E281-2995-41EA-A830-8D1DB6865022}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefiningClasses_Part1/GSM.cs">
+    <Files>
+      <File FileName="DefiningClasses_Part1/Program.cs" Line="1" Column="1" />
+      <File FileName="DefiningClasses_Part1/GSM.cs" Line="88" Column="31" />
+      <File FileName="DefiningClasses_Part1/Battery.cs" Line="32" Column="14" />
+      <File FileName="DefiningClasses_Part1/Display.cs" Line="7" Column="29" />
+      <File FileName="DefiningClasses_Part1/Validator.cs" Line="24" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DefiningClasses__Part1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
