@@ -38,6 +38,8 @@
     <Compile Include="Battery.cs" />
     <Compile Include="Display.cs" />
     <Compile Include="Validator.cs" />
+    <Compile Include="GSMTest.cs" />
+    <Compile Include="BatteryType.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

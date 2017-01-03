@@ -3,9 +3,12 @@ namespace DefiningClasses_Part1
 {
     public static class Validator
     {
-        public static string ValidateString()
+        public static void ValidateString(string text)
         {
-            return null;
+            if (string.IsNullOrEmpty(text))
+            {
+                throw new ArgumentNullException($"{text} can not be EMPTY!!!");
+            }
         }
 
         public static void ValidateInt(int number, string text)

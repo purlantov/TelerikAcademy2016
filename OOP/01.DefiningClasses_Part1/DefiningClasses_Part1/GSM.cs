@@ -16,12 +16,19 @@ namespace DefiningClasses_Part1
             this.Model = model;
         }
 
-        public GSM(string manufacturer, string model, decimal price,
-                   string owner, Battery battery, Display display)
-            : this(manufacturer, model)
+        public GSM(string manufacturer, string model, decimal price, string owner)
+            :this(manufacturer,model)
         {
             this.Price = price;
             this.Owner = owner;
+        }
+
+        public GSM(string manufacturer, string model, decimal price,
+                   string owner, Battery battery, Display display)
+            : this(manufacturer, model, price, owner)
+        {
+            this.Battery = battery;
+            this.Display = display;
         }
 
         public string Model
@@ -29,8 +36,8 @@ namespace DefiningClasses_Part1
             get { return this.model; }
             set
             {
-                if (string.IsNullOrEmpty(this.model) &&
-                this.model.Length < 2)
+                if (string.IsNullOrEmpty(value) &&
+                value.Length < 2)
                 {
                     throw new ArgumentNullException();
                 }
@@ -43,7 +50,7 @@ namespace DefiningClasses_Part1
             get { return this.manufacturer; }
             set
             {
-                if (string.IsNullOrEmpty(this.manufacturer) &&
+                if (string.IsNullOrEmpty(value) &&
                     this.manufacturer.Length < 2)
                 {
                     throw new ArgumentNullException();
@@ -57,7 +64,7 @@ namespace DefiningClasses_Part1
             get { return this.price; }
             set
             {
-                if (this.price <= 0)
+                if (value <= 0)
                 {
                     throw new ArgumentException("Price have to be bigger than 0!");
                 }
@@ -70,7 +77,7 @@ namespace DefiningClasses_Part1
             get { return this.owner; }
             set
             {
-                if (string.IsNullOrEmpty(this.owner) &&
+                if (string.IsNullOrEmpty(value) &&
                    this.owner.Length < 2)
                 {
                     throw new ArgumentNullException();
@@ -91,5 +98,11 @@ namespace DefiningClasses_Part1
             set { this.display = value; }
         }
 
+
+        public override string ToString()
+        {
+            return string.Format("[GSM: Model={0}, Manufacturer={1}, Price={2}, Owner={3}, Battery={4}, Display={5}]",
+                                 Model, Manufacturer, Price, Owner, Battery, Display);
+        }
     }
 }

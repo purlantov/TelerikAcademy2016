@@ -6,15 +6,20 @@ namespace DefiningClasses_Part1
         private string model;
         private uint hoursIdle;
         private uint hoursTalk;
+        public BatteryType BatteryType {get;set;}
 
         public Battery(string model = "OEM")
         {
             this.Model = model;
         }
 
+        public Battery(string model, BatteryType type):this(model)
+        {
+            this.BatteryType = type;
+        }
+
         public Battery(string model, uint hoursIdle, uint hoursTalk) : this(model)
         {
-            //this.Model = model;
             this.HoursIdle = hoursIdle;
             this.Hourstalk = hoursTalk;
         }
@@ -30,7 +35,7 @@ namespace DefiningClasses_Part1
             get { return this.hoursIdle; }
             set
             {
-                Validator.ValidateUInt(this.hoursIdle, "Hours Idle");
+                Validator.ValidateUInt(value, "Hours Idle");
                 this.hoursIdle = value;
             }
         }
@@ -39,6 +44,12 @@ namespace DefiningClasses_Part1
         {
             get { return this.hoursTalk; }
             set { this.hoursTalk = value; }
+        }
+
+        public override string ToString()
+        {
+            return string.Format("[Battery: BatteryType={0}, Model={1}, HoursIdle={2}, Hourstalk={3}]", 
+                                 BatteryType, Model, HoursIdle, Hourstalk);
         }
     }
 }

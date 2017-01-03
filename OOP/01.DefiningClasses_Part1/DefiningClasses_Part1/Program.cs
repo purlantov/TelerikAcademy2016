@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DefiningClasses_Part1
 {
@@ -6,7 +7,7 @@ namespace DefiningClasses_Part1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            GSMTest.Test();
         }
     }
 }
