@@ -1,82 +1,100 @@
 ﻿using System;
-namespace Matrix_Generic
+using System.Text;
+
+namespace GenericList
 {
-	public class GenericList<T>
-	{
-		private const int InitialCapacity = 4;
-		//private int capacity;
-		private int nextElement;
-		private T[] elements;
+    public class GenericList<T>
+    {
+        private const int InitialCapacity = 4;
+        //private int capacity;
+        //private int nextElement;
+        private T[] elements;
 
-		public int Count { get; private set; }
+        public int Count { get; private set; }
 
-		public int Capacity
-		{
-			get { return elements.Length; }
-		}
+        public int Capacity
+        {
+            get { return elements.Length; }
+        }
 
-		public GenericList()
-		{
-			this.Count = 0;
-			this.elements = new T[InitialCapacity];
-		}
+        public GenericList()
+        {
+            this.Count = 0;
+            this.elements = new T[InitialCapacity];
+        }
 
-		public void Add(T item)
-		{
-			// resize if necessary
-			if (this.Count == this.Capacity)
-			{
-				this.Grow();
-			}
+        public void Add(T item)
+        {
+            // resize if necessary
+            if (this.Count == this.Capacity)
+            {
+                this.Grow();
+            }
 
-			elements[this.Count++] = item;
-		}
+            elements[this.Count++] = item;
+        }
 
-		// indexer
-		public T this[int index]
-		{
-			get
-			{
-				return this.elements[index];
-			}
-			set
-			{
-				this.elements[index] = value;
-			}
-		}
+        // indexer
+        public T this[int index]
+        {
+            get
+            {
+                return this.elements[index];
+            }
+            set
+            {
+                this.elements[index] = value;
+            }
+        }
 
-		public void RemoveElement(T item)
-		{
+        public void RemoveElement(T item)
+        {
+            int index = -1;
 
-		}
+            for (int i = 0; i < this.Count; i++)
+            {
+                if (this.elements[i].Equals(item))
+                {
+                    index = i;
+                    break;
+                }
+            }
 
-		public void RemoveAt(int index)
-		{
-			for (int i = index; i < this.Count - 1; i++)
-			{
-				this.elements[i] = this.elements[i + 1];
-			}
+            this.RemoveAt(index);
+        }
 
-			this.elements[this.Count - 1] = default(T);
+        public void RemoveAt(int index)
+        {
+            for (int i = index; i < this.Count - 1; i++)
+            {
+                this.elements[i] = this.elements[i + 1];
+            }
 
-			this.Count--;
-		}
+            this.elements[this.Count - 1] = default(T);
 
-		private void Grow()
-		{
-			var newElements = new T[this.Capacity * 2];
+            this.Count--;
+        }
 
-			for (int i = 0; i < this.Count; i++)
-			{
-				newElements[i] = this.elements[i];
-			}
+        private void Grow()
+        {
+            var newElements = new T[this.Capacity * 2];
 
-			this.elements = newElements;
-		}
+            for (int i = 0; i < this.Count; i++)
+            {
+                newElements[i] = this.elements[i];
+            }
 
-		public void Print()
-		{
-			Console.WriteLine(string.Join(", ", this.elements));
-		}
-	}
+            this.elements = newElements;
+        }
+
+        public override string ToString()
+        {
+            var builder = new StringBuilder();
+            for (int i = 0; i < this.Count; i++)
+            {
+                builder.Append(string.Format("{0}, ", this.elements[i]));
+            }
+            return builder.ToString();
+        }
+    }
 }

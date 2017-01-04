@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{E7B85FC6-A976-49F9-9281-CB2783B3E0F3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Matrix_Generic/GenericList.cs">
+  <MonoDevelop.Ide.ItemProperties.GenericList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matrix/Matrix.cs">
     <Files>
-      <File FileName="Matrix_Generic/Program.cs" Line="9" Column="65" />
-      <File FileName="Matrix_Generic/GenericList.cs" Line="26" Column="17" />
+      <File FileName="Matrix_Generic/StartUp.cs" Line="26" Column="48" />
+      <File FileName="Matrix_Generic/GenericList.cs" Line="22" Column="15" />
+      <File FileName="Matrix_Generic/GenericListExtensions.cs" Line="17" Column="32" />
+      <File FileName="Matrix/Program.cs" Line="13" Column="1" />
+      <File FileName="Matrix/Matrix.cs" Line="103" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -12,5 +16,4 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.PointsAndPaths PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Matrix__Generic PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
