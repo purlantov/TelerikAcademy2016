@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{AA845D87-372F-4080-9858-DD39B58AD2DB}|Default">
+﻿<Properties StartupConfiguration="{E7B85FC6-A976-49F9-9281-CB2783B3E0F3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Matrix_Generic/GenericList.cs">
     <Files>
       <File FileName="Matrix_Generic/Program.cs" Line="9" Column="65" />
@@ -12,4 +12,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.PointsAndPaths PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Matrix__Generic PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
