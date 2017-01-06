@@ -15,7 +15,7 @@ numToWord(['999']);
 function numToWord(args) {
 	var number = args[0];
 	var digits = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"];
-	var special = ["ten", "eleven", "twelve", "thirdtheen", "fourthen", "fiftheen", "sixtheen", "seventeen", "eightheen", "nineteen"];
+	var special = ["ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixtheen", "seventeen", "eighteen", "nineteen"];
 	var dec = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
 
 	if (number >= 0 && number < 1000) {
