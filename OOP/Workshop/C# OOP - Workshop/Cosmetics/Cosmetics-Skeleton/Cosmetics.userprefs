@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B005C0B3-5C89-45A7-9BE1-FAB966806F40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cosmetics/Products/Product.cs">
+    <Files>
+      <File FileName="Cosmetics/Cart/ShoppingCart.cs" Line="6" Column="30" />
+      <File FileName="Cosmetics/Products/Product.cs" Line="81" Column="31" />
+      <File FileName="Cosmetics/Products/ToothPaste.cs" Line="37" Column="19" />
+      <File FileName="Cosmetics/Products/Shampoo.cs" Line="28" Column="19" />
+      <File FileName="Cosmetics/Category.cs" Line="77" Column="96" />
+      <File FileName="Cosmetics/Engine/CosmeticsEngine.cs" Line="288" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Cosmetics PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
