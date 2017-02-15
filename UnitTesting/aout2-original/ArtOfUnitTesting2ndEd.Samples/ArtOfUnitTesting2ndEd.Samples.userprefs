@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EDC599EF-1FF0-4C3A-BAD1-1B5753C6CBE6}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogAn.UnitTests/packages.config">
+    <Files>
+      <File FileName="LogAn/LogAnalyzer.cs" Line="24" Column="1" />
+      <File FileName="LogAn.UnitTests/LogAnalyzerTests.cs" Line="70" Column="104" />
+      <File FileName="LogAn.UnitTests/GeneralThreadAffineContext.cs" Line="1" Column="1" />
+      <File FileName="LogAn.UnitTests/AsyncTests.cs" Line="44" Column="5" />
+      <File FileName="LogAn.UnitTests/packages.config" Line="3" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ArtOfUnitTesting2ndEd.Samples" expanded="True">
+            <Node name="Chapter2_files" expanded="True">
+              <Node name="LogAn.UnitTests" expanded="True" selected="True">
+                <Node name="LogAn" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Chapter2__files.LogAn.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
