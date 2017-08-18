@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA_miniExam3", "DSA_miniExam3\DSA_miniExam3.csproj", "{4723E1B5-DBC5-4468-975B-E2D637014E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tast_3", "tast_3\tast_3.csproj", "{FA54D2EA-0F99-4D2D-8200-726A516AE39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4723E1B5-DBC5-4468-975B-E2D637014E1B}.Debug|x86.ActiveCfg = Debug|x86
+		{4723E1B5-DBC5-4468-975B-E2D637014E1B}.Debug|x86.Build.0 = Debug|x86
+		{4723E1B5-DBC5-4468-975B-E2D637014E1B}.Release|x86.ActiveCfg = Release|x86
+		{4723E1B5-DBC5-4468-975B-E2D637014E1B}.Release|x86.Build.0 = Release|x86
+		{FA54D2EA-0F99-4D2D-8200-726A516AE39F}.Debug|x86.ActiveCfg = Debug|x86
+		{FA54D2EA-0F99-4D2D-8200-726A516AE39F}.Debug|x86.Build.0 = Debug|x86
+		{FA54D2EA-0F99-4D2D-8200-726A516AE39F}.Release|x86.ActiveCfg = Release|x86
+		{FA54D2EA-0F99-4D2D-8200-726A516AE39F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
