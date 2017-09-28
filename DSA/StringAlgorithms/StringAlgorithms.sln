@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigSorting", "StringAlgorithms\BigSorting.csproj", "{FC69BD80-25E2-43AF-854E-12A034AAAA6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HackerHank", "HackerHank", "{F3E88442-613C-447F-9F6A-529E4CC356C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToTutorialChallenges", "StringAlgorithms\IntroToTutorialChallenges\IntroToTutorialChallenges.csproj", "{EB9E99CD-6739-4BB4-8FA9-88B5B1605869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC69BD80-25E2-43AF-854E-12A034AAAA6C}.Debug|x86.ActiveCfg = Debug|x86
+		{FC69BD80-25E2-43AF-854E-12A034AAAA6C}.Debug|x86.Build.0 = Debug|x86
+		{FC69BD80-25E2-43AF-854E-12A034AAAA6C}.Release|x86.ActiveCfg = Release|x86
+		{FC69BD80-25E2-43AF-854E-12A034AAAA6C}.Release|x86.Build.0 = Release|x86
+		{EB9E99CD-6739-4BB4-8FA9-88B5B1605869}.Debug|x86.ActiveCfg = Debug|x86
+		{EB9E99CD-6739-4BB4-8FA9-88B5B1605869}.Debug|x86.Build.0 = Debug|x86
+		{EB9E99CD-6739-4BB4-8FA9-88B5B1605869}.Release|x86.ActiveCfg = Release|x86
+		{EB9E99CD-6739-4BB4-8FA9-88B5B1605869}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC69BD80-25E2-43AF-854E-12A034AAAA6C} = {F3E88442-613C-447F-9F6A-529E4CC356C5}
+		{EB9E99CD-6739-4BB4-8FA9-88B5B1605869} = {F3E88442-613C-447F-9F6A-529E4CC356C5}
+	EndGlobalSection
+EndGlobal

@@ -69,6 +69,8 @@
     <Compile Include="ModelsTest\CourseTest\LecturesPerWeek_Should.cs" />
     <Compile Include="ModelsTest\Season\ListUsers_Should.cs" />
     <Compile Include="ModelsTest\Season\ListCourses_Should.cs" />
+    <Compile Include="ModelsTest\CoreTest\FactoriesTest\AcademyFactory\CreateLectureResource_Should.cs" />
+    <Compile Include="CommandsTest\AddingTest\AddStudentToCourseCommand\Constructor_Should.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Academy\Academy.csproj">
@@ -90,6 +92,12 @@
     <Folder Include="ModelsTest\Abstractions\UserTest\" />
     <Folder Include="ModelsTest\CourseTest\" />
     <Folder Include="ModelsTest\Season\" />
+    <Folder Include="ModelsTest\CoreTest\" />
+    <Folder Include="ModelsTest\CoreTest\FactoriesTest\" />
+    <Folder Include="ModelsTest\CoreTest\FactoriesTest\AcademyFactory\" />
+    <Folder Include="CommandsTest\" />
+    <Folder Include="CommandsTest\AddingTest\" />
+    <Folder Include="CommandsTest\AddingTest\AddStudentToCourseCommand\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,10 +1,22 @@
 ﻿<Properties StartupConfiguration="{37BA7D68-D803-4820-9586-8EFC016C9144}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Academy.Tests/ModelsTest/Season/ListCourses_Should.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Academy.Tests/CommandsTest/AddingTest/AddStudentToCourseCommand/Constructor_Should.cs">
     <Files>
-      <File FileName="Academy/Models/Season.cs" Line="110" Column="42" />
-      <File FileName="Academy.Tests/ModelsTest/Season/ListUsers_Should.cs" Line="35" Column="63" />
-      <File FileName="Academy.Tests/ModelsTest/Season/ListCourses_Should.cs" Line="30" Column="9" />
+      <File FileName="Academy.Tests/CommandsTest/AddingTest/AddStudentToCourseCommand/Constructor_Should.cs" Line="11" Column="74" />
+      <File FileName="Academy/Commands/Adding/AddStudentToCourseCommand.cs" Line="18" Column="52" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Academy" expanded="True">
+            <Node name="Academy.Tests" expanded="True">
+              <Node name="Academy" expanded="True" selected="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
