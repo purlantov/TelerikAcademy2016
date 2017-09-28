@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E75FCD66-2162-4AA7-B854-2F1C8A70F546}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.CokiSkoki/Program.cs">
+    <Files>
+      <File FileName="05.CokiSkoki/Program.cs" Line="25" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.05.CokiSkoki PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.JungleTrees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.WoodenBoard PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
